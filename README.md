@@ -10,4 +10,4 @@ Unlock the secrets to creating a dynamic, animated digital agency landing page w
 
 [![Markax](https://img.shields.io/badge/Markax-Visit-red)](https://oyesafi.github.io/Markax/)
 
-[![Sidkastore](https://img.shields.io/badge/Sidkastore-Visit-green)](https://oyesafi.github.io/Sidkastore/)
+[![Marqaz](https://img.shields.io/badge/Sidkastore-Visit-green)](https://oyesafi.github.io/Marqaz/)
